@@ -1,7 +1,7 @@
 ---	
 layout: default
 title: "Escape to Tranquility: Lake Opechee Inn and Spa"
-permalink: /trips/2023-06-laconia-nh/
+permalink: /reviews/2023-06-laconia-nh/
 description: "A mid-summer escape to Lake Opechee Inn in Laconia, NH, blended luxury with adventure, featuring a Matchbox 20 concert, scenic hikes, spa indulgence, and culinary delights. Unforgettable moments!"
 ---
 <h1>{{ page.title }}</h1>
